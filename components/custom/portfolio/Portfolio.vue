@@ -6,7 +6,7 @@
             Start Portfolio Text
         ----------------------------------------------- -->
         <v-row justify="center">
-          <v-col cols="12" sm="10" md="9" lg="7">
+          <v-col id="projets" cols="12" sm="10" md="9" lg="7">
             <div class="text-center">
               <h2 class="section-title font-weight-medium">
                 Les projets d'Aurélien

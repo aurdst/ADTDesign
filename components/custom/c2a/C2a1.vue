@@ -6,10 +6,10 @@
             Start Call-2-Action
         ----------------------------------------------- -->
         <div class="d-block d-md-flex align-center">
-          <h2 class="c2a-title white--text font-weight-medium">
-            Vous souhaitez suivre toutes l'actualitée DTDesign ? Suivez nous sur instagram
+          <h2 class="mx-auto c2a-title white--text font-weight-medium">
+            Vous souhaitez suivre toutes l'actualitée ADTDesign ? Suivez nous sur instagram
           </h2>
-          <div class="ml-auto mt-5 mt-md-0">
+          <!-- <div class="ml-auto mt-5 mt-md-0">
             <v-btn
               nuxt
               large
@@ -22,7 +22,7 @@
             >
               Voir l'actualitée
             </v-btn>
-          </div>
+          </div> -->
         </div>
 
         <!-- -----------------------------------------------

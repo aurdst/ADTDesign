@@ -19,16 +19,15 @@
                 class="mr-0 mr-md-8 mb-5 mb-md-0 btn-custom-md"
                 nuxt
                 large
-                target="_blank"
-                href="/"
+                to="#contact"
                 elevation="0"
               >
-                Découvrir nos offres digitales
+                Concevoir votre projet 
               </v-btn>
               <v-btn
                 nuxt
                 large
-                to="/coming-soon"
+                to="#projets"
                 class="btn-custom-md"
                 outlined
                 color="white"

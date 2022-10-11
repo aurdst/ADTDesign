@@ -16,7 +16,7 @@
                 <v-row mx-auto>
                   <v-img 
                   :src="logo"
-                  alt="DTDesign Technologie utilisées"
+                  alt="ADTDesign Technologie utilisées"
                   ></v-img>
                 </v-row>
               </v-col>

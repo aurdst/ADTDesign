@@ -20,10 +20,10 @@
         >
           <ul class="navbar-nav">
             <li class="nav-item" text>
-              <n-link class="nav-link" nuxt to="/"> Qui sommes nous </n-link>
+              <n-link class="nav-link" nuxt to="/#quisommes"> Qui sommes nous </n-link>
             </li>
             <li class="nav-item" text>
-              <n-link class="nav-link" nuxt to="/basic-components">
+              <n-link class="nav-link" nuxt to="#projets">
                 Projets
               </n-link>
             </li>
@@ -32,11 +32,10 @@
               <v-btn
                 color="white"
                 nuxt
-                target="_blank"
-                href="/"
+                href="#contact"
                 elevation="0"
               >
-                Contactez-nous
+                Contactez-moi
               </v-btn>
             </li>
           </ul>

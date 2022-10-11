@@ -15,7 +15,7 @@
                 De l'idée à la conception, confiez nous votre projet digital !
               </p>
               <div class="mt-16 pt-2">
-                <form>
+                <!-- <form>
                   <div class="stylish-input-group">
                     <v-text-field
                       placeholder="Entrer votre adresse e-mail"
@@ -31,7 +31,7 @@
                       s'inscrire !
                     </v-btn>
                   </div>
-                </form>
+                </form> -->
               </div>
             </div>
           </v-col>

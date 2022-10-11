@@ -1,15 +1,15 @@
-<template>
+<!-- <template>
   <div>
-    <div class="mini-spacer">
-      <v-container>
+    <div id="contact" class="mini-spacer">
+      <v-container> -->
         <!-- -----------------------------------------------
             Start Contact Form
         ----------------------------------------------- -->
-        <v-row justify="center">
+        <!-- <v-row justify="center">
           <v-col cols="12" sm="10" md="12" lg="8">
             <div>
               <h4 class="font-weight-medium contact-title mt-0">
-                Contacter DTDesign
+                Contacter ADTDesign
               </h4>
               <form>
                 <v-row class="mt-15">
@@ -58,7 +58,7 @@
                 Métropole Européenne de Lille
               </h2>
               <p class="mt-15 op-8 mb-0 white--text">+33 6 15 41 18 16</p>
-              <p class="op-8 mb-8 white--text">DTDesign@outlook.fr</p>
+              <p class="op-8 mb-8 white--text">aureliendestailleur@outlook.fr</p>
               <p class="mt-15 op-8 mb-0 white--text">27 Avenue Robert Schuman </p>
               <p class="op-8 mb-0 white--text">Mons en Baroeul, 59370</p>
             </div>
@@ -82,4 +82,4 @@ export default {
   },
   methods: {},
 };
-</script>
+</script> -->

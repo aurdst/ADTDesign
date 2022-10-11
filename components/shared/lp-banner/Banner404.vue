@@ -14,7 +14,7 @@
         >
           <div class="text-center">
             <h1 class="banner-title font-weight-bold white--text">
-              Opps, 404 - Error Site Web indisponible
+              OH ... , 404 tours sur le site pourtant ... - Page Web indisponible
             </h1>
             <h4 class="banner-subtitle mr-0 white--text font-weight-regular">
               La page demandée n'est plus disponible réessayer plus tard.

@@ -11,8 +11,8 @@
            max-width="400"
            pl-16
            ></v-img>
-          <v-col cols="12" sm="10" md="9" lg="7">
-            <div class="text-center">
+          <v-col id="quisommes" cols="12" sm="10" md="9" lg="7">
+            <div  class="text-center">
               <h2 class="ui-title font-weight-bold">Qui est derrière ADTDesign ?</h2>
               
               <p>
@@ -22,10 +22,11 @@
                 Alors n'hésitez pas à le contacter dès à présent !
               </p>
               <br>
+              <a href="#contact" style="text-decoration:none">
               <v-btn
                class="btn_white_text"
                color="#daab39"
-              >Lancer mon projet !</v-btn>
+              >Lancer mon projet !</v-btn></a>
             </div>
           </v-col>
         </v-row>

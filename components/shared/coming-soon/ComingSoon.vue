@@ -8,7 +8,7 @@
         <v-col cols="12" sm="10" md="6" class="d-flex align-center">
           <div>
             <h2 class="coming-title font-weight-bold white--text">
-              Contact par mail ou Téléphone ? Tout est là !
+              Contact par mail ou Téléphone ?<br>Tout est là !
             </h2>
             <h4 class="coming-subtitle white--text font-weight-light">
               ADTDesign disponible du Lundi au Vendredi de 9h à 18h 
@@ -26,7 +26,7 @@
               </v-card>
               <br>
               <v-card
-                max-width="380"
+                max-width="300"
                 nuxt
                 large
                 class="btn-custom-md"

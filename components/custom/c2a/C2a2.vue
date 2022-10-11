@@ -12,7 +12,7 @@
                 Web, Mobile, Montage Vidéo, Graphisme
               </h2>
               <p class="white--text op-8 mb-10">
-                Réservé dès maintenant un rendez-vous et parler de votre projet, en terrasse, par mail, au télephone, ADTDesign sera vous satisfaire.
+                Réservez dès maintenant un rendez-vous et parler de votre projet, en terrasse, par mail, au télephone, ADTDesign sera vous satisfaire.
               </p>
               <!-- <div>
                 <a href="#">

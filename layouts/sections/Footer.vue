@@ -56,9 +56,9 @@
           </p>
           <div class="ml-auto">
             <div class="d-flex align-center">
-              <a href="@/components/shared/lp-banner/BannerComingSoon" class="link px-4">Terms of Use</a>
-              <a href="/" class="link px-4">Legal Disclaimer</a>
-              <a href="/" class="link px-4">Privacy Policy</a>
+              <a href="#" class="link px-4">Terms of Use</a>
+              <a href="#" class="link px-4">Legal Disclaimer</a>
+              <a href="#" class="link px-4">Privacy Policy</a>
             </div>
           </div>
         </div>

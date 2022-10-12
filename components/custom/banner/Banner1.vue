@@ -32,13 +32,13 @@
                   nuxt
                   large
                   rounded
-                  link=https://www.sitew.com/Informations-diverses-sur-la-creation-de-site/statistiques-web
                   class="btn-custom-md"
                   depressed
                   color="white"
                   elevation="0"
                 >
-                  En savoir plus
+                  <a href="https://www.sitew.com/Informations-diverses-sur-la-creation-de-site/statistiques-web" target="_blank" style="text-decoration:none; color:black;">En savoir plus</a>
+                  
                 </v-btn>
               </div>
             </div>

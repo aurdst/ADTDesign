@@ -20,13 +20,13 @@
                 <v-btn
                   nuxt
                   large
-                  to="/"
+                  to="/#projets"
                   class="btn-custom-lg btn-arrow"
                   depressed
                   color="error"
                   elevation="0"
                 >
-                  <span>Voir nos projets</span>
+                  <span>Voir ses projets</span>
                   <i class="mdi mdi-arrow-right"></i>
                 </v-btn>
               </div>

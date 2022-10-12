@@ -31,10 +31,10 @@
                     class="btn-custom-lg linking mt-10 btn-arrow"
                     nuxt
                     large
-                    to="/"
+                    to="/#projets"
                     elevation="0"
                   >
-                    <a href="#projets" style="text-decoration:none; color:black"><span>Voir ses projets</span></a>
+                    <span>Voir ses projets</span>
                     <i class="mdi mdi-arrow-right"></i>
                   </v-btn>
                 </div>

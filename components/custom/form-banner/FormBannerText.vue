@@ -8,7 +8,7 @@
         <v-row justify="center">
           <v-col cols="12" sm="10" md="9" lg="7">
             <div class="text-center">
-              <h2 class="ui-title font-weight-bold">Ils nous font confiance</h2>
+              <h2 class="ui-title font-weight-bold">Ils ont fait confiance</h2>
               <p>
                 La satisfaction est au centre des préoccupations de toute entreprise
               </p>
@@ -18,13 +18,11 @@
 
         <v-col mt-5>
           <v-row mt-5>
-            <br>
-            <br>
-            <v-img 
+            <v-img
+              style="margin:auto; margin-top:50px"
               :src="logo"
-              max-width="1100"
+              max-width="700"
               mx-auto
-              mt-5
               ></v-img>
           </v-row>
         </v-col>

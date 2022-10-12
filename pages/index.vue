@@ -4,6 +4,22 @@
     Banner
     ----------------------------------------------- -->
     <Banner />
+    <v-col style="z-index:999;">
+      <v-row>
+        <v-btn 
+         color="#212E53"
+         rounded
+         fixed
+         right
+         to="/#quisommes"
+        >
+          <v-icon
+          color="white">
+            mdi-arrow-up-bold-circle
+          </v-icon>
+        </v-btn>
+      </v-row>
+    </v-col>
     <!-- -----------------------------------------------
     ./ Banner
     ----------------------------------------------- -->

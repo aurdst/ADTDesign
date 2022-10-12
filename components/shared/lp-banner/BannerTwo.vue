@@ -1,10 +1,10 @@
-<template>
+<!-- <template>
   <div class="banner-wrapper" style="background-color:#439691">
-    <v-container>
+    <v-container> -->
       <!-- -----------------------------------------------
             Start Banner
         ----------------------------------------------- -->
-      <v-row justify="center">
+      <!-- <v-row justify="center">
         <v-col
           cols="12"
           sm="10"
@@ -26,12 +26,12 @@
             </div>
           </div>
         </v-col>
-      </v-row>
+      </v-row> -->
 
       <!-- -----------------------------------------------
             End Banner
         ----------------------------------------------- -->
-    </v-container>
+    <!-- </v-container>
   </div>
 </template>
 <script>
@@ -42,4 +42,4 @@ export default {
   },
   methods: {}
 };
-</script>
+</script> -->

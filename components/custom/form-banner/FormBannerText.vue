@@ -21,7 +21,7 @@
             <v-img
               style="margin:auto; margin-top:50px"
               :src="logo"
-              max-width="700"
+              max-width="400"
               mx-auto
               ></v-img>
           </v-row>

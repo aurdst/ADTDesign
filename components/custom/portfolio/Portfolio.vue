@@ -125,6 +125,36 @@
               </v-card-text>
             </v-card>
           </v-col>
+          <v-col cols="12" md="6" lg="4">
+            <v-card class="portfolio-card overflow-hidden">
+              <div class="portfolio-img">
+                  <img
+                  src="@/assets/images/portfolio/img6.jpg"
+                  class="img-fluid"
+                  alt="Featyou_ADTDesign"
+                />
+              </div>
+              <v-card-text>
+                <h5 class="font-weight-medium font-18">Clément Huon</h5>
+                <p class="font-14 mb-0">Création Site web</p>
+              </v-card-text>
+            </v-card>
+          </v-col>
+          <v-col cols="12" md="6" lg="4">
+            <v-card class="portfolio-card overflow-hidden">
+              <div class="portfolio-img">
+                  <img
+                  src="@/assets/images/portfolio/img7.jpg"
+                  class="img-fluid"
+                  alt="Featyou_ADTDesign"
+                />
+              </div>
+              <v-card-text>
+                <h5 class="font-weight-medium font-18">Maquette Arganatus</h5>
+                <p class="font-14 mb-0">Création Graphique</p>
+              </v-card-text>
+            </v-card>
+          </v-col>
         </v-row>
 
         <!-- -----------------------------------------------

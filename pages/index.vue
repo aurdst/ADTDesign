@@ -44,7 +44,7 @@
 export default {
   head() {
     return {
-      title: "DTDesign | Web Designer | Développeur",
+      title: "ADTDesign | Web Designer | Développeur",
       meta: [
         {
           hid: "description",

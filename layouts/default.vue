@@ -13,12 +13,12 @@
 export default {
   head() {
     return {
-      title: "NuxtJs UI kit | Free UI kit built with Vuetify",
+      title: "ADTDesign | Conception Web et Mobile",
       meta: [
         {
-          hid: "description",
-          name: "NuxtJs UI kit",
-          content: "NuxtJs UI kit is the best way"
+          hid: "Conception site internet / Logo / Application",
+          name: "ADTDesign",
+          content: "ADTDesign Pro"
         }
       ]
     };

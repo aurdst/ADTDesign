@@ -29,9 +29,9 @@
             <v-card class="portfolio-card overflow-hidden">
               <div class="portfolio-img">
                 <img
-                  src="@/assets/images/portfolio/img1.jpg"
+                  src="@/assets/images/portfolio/ADTDesign_Atelier_maman.jpg"
                   class="img-fluid"
-                  alt="portfolio"
+                  alt="ADTDesign_Atelier_maman"
                 />
               </div>
               <v-card-text>
@@ -47,9 +47,9 @@
               <div class="portfolio-img">
                 <a href="https://www.teamlock.io/#/" target="_blank">
                   <img
-                  src="@/assets/images/portfolio/img2.jpg"
+                  src="@/assets/images/portfolio/ADTDesign_Teamlock.jpg"
                   class="img-fluid"
-                  alt="portfolio"
+                  alt="ADTDesign_Teamlock"
                 />
                 </a>
               </div>
@@ -64,9 +64,9 @@
               <div class="portfolio-img">
                 <a href="https://www.medivie-templeuve.fr/" target="_blank">
                   <img
-                  src="@/assets/images/portfolio/img3.jpg"
+                  src="@/assets/images/portfolio/ADTDesign_medivie_templeuve.jpg"
                   class="img-fluid"
-                  alt="medivie_templeuve_ADTDesign"
+                  alt="ADTDesign_medivie_templeuve"
                 />
                 </a>
               </div>
@@ -81,9 +81,9 @@
               <div class="portfolio-img">
                 <a href="https://www.adomeo-sport.com/" target="_blank">
                   <img
-                  src="@/assets/images/portfolio/img4.jpg"
+                  src="@/assets/images/portfolio/ADTDesign_adomeo_sport.jpg"
                   class="img-fluid"
-                  alt="adomeo_sport_ADTDesign"
+                  alt="ADTDesign_adomeo_sport"
                 />
                 </a>
               </div>
@@ -98,9 +98,9 @@
               <div class="portfolio-img">
                 <a href="https://www.huon-osteopathe.fr/" target="_blank">
                   <img
-                  src="@/assets/images/portfolio/img6.jpg"
+                  src="@/assets/images/portfolio/ADTDesign_Clément_huon.jpg"
                   class="img-fluid"
-                  alt="medivie_templeuve_ADTDesign"
+                  alt="ADTDesign_Clément_huon"
                 />
                 </a>
               </div>
@@ -114,9 +114,9 @@
             <v-card class="portfolio-card overflow-hidden">
               <div class="portfolio-img">
                   <img
-                  src="@/assets/images/portfolio/img5.jpg"
+                  src="@/assets/images/portfolio/ADTDesign_featyou.jpg"
                   class="img-fluid"
-                  alt="Featyou_ADTDesign"
+                  alt="ADTDesign_featyou"
                 />
               </div>
               <v-card-text>
@@ -129,9 +129,9 @@
             <v-card class="portfolio-card overflow-hidden">
               <div class="portfolio-img">
                   <img
-                  src="@/assets/images/portfolio/img7.png"
+                  src="@/assets/images/portfolio/ADTDesign_arganatus.png"
                   class="img-fluid"
-                  alt="Arganatus Maquette"
+                  alt="ADTDesign_Arganatus_Maquette"
                 />
               </div>
               <v-card-text>
@@ -140,6 +140,51 @@
               </v-card-text>
             </v-card>
           </v-col>
+          <v-col cols="12" md="6" lg="4">
+            <v-card class="portfolio-card overflow-hidden">
+              <div class="portfolio-img">
+                  <img
+                  src="@/assets/images/portfolio/ADT_Design_Triomphe.png"
+                  class="img-fluid"
+                  alt="ADTDesign Triomphe Logo"
+                />
+              </div>
+              <v-card-text>
+                <h5 class="font-weight-medium font-18">Triomphe Logo</h5>
+                <p class="font-14 mb-0">Conception de Logo</p>
+              </v-card-text>
+            </v-card>
+          </v-col>
+          <v-col cols="12" md="6" lg="4">
+            <v-card class="portfolio-card overflow-hidden">
+              <div class="portfolio-img">
+                  <img
+                  src="@/assets/images/portfolio/ADTDesign_Kangoo.png"
+                  class="img-fluid"
+                  alt="ADTDesign Kangoo Logo"
+                />
+              </div>
+              <v-card-text>
+                <h5 class="font-weight-medium font-18">Kangoo Logo</h5>
+                <p class="font-14 mb-0">Conception de Logo</p>
+              </v-card-text>
+            </v-card>
+          </v-col>
+          <v-col cols="12" md="6" lg="4">
+            <v-card class="portfolio-card overflow-hidden">
+              <div class="portfolio-img">
+                  <img
+                  src="@/assets/images/portfolio/ADTDesign_LightOwl.png"
+                  class="img-fluid"
+                  alt="ADTDesign LightOwl Logo"
+                />
+              </div>
+              <v-card-text>
+                <h5 class="font-weight-medium font-18">LightOwl Logo</h5>
+                <p class="font-14 mb-0">Conception de Logo</p>
+              </v-card-text>
+            </v-card>
+          </v-col>          
         </v-row>
 
         <!-- -----------------------------------------------

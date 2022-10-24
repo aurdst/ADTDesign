@@ -15,25 +15,39 @@
             </h4>
             <div class="mt-16 pt-2">
               <v-card
-                max-width="180"
+                max-width="250"
                 nuxt
                 large
                 class="btn-custom-md"
                 color="white"
                 elevation="0"
               >
-                06 15 41 18 16
+                <strong>Aurélien : </strong> 06 15 41 18 16
               </v-card>
+
+              <br>
+
+              <v-card
+                max-width="260"
+                nuxt
+                large
+                class="btn-custom-md"
+                color="white"
+                elevation="0"
+              >
+                <strong>Maxime : </strong> 06 10 42 37 65
+              </v-card>
+
               <br>
               <v-card
-                max-width="300"
+                max-width="600"
                 nuxt
                 large
                 class="btn-custom-md"
                 color="white"
                 elevation="0"
               >
-                aureliendestailleur@outlook.fr
+                aureliendestailleur@outlook.fr <strong>//</strong> lefebvremaximee@gmail.com
               </v-card>
             </div>
           </div>

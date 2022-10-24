@@ -17,7 +17,8 @@
       ----------------------------------------------- -->
         <v-col cols="12" sm="12" md="12" lg="3" class="px-xs-0">
           <h4 class="font-weight-regular font-18">Téléphone</h4>
-          <p class="mt-10 mb-0">Aurélien : <strong>06 15 41 18 16</strong></p> 
+          <p class="mt-10 mb-0">Aurélien : <strong>06 15 41 18 16</strong></p>
+          <p class="mt-10 mb-0">Maxime : <strong>06 10 42 37 65</strong></p> 
         </v-col>
         <!-- -----------------------------------------------
         Third Column
@@ -25,7 +26,8 @@
         <v-col cols="12" sm="12" md="12" lg="3" class="px-xs-0">
           <h4 class="font-weight-regular font-18">Email</h4>
           <p class="mt-10 mb-0">
-            Office : <strong>aureliendestailleur@outlook.fr</strong>
+            WebDesign / Logo : <strong>aureliendestailleur@outlook.fr</strong>
+            Développement App Web & Mobile : <strong>lefebvremaximee@gmail.com</strong>
           </p>
 
         </v-col>

@@ -9,7 +9,7 @@
           <v-col id="projets" cols="12" sm="10" md="9" lg="7">
             <div class="text-center">
               <h2 class="section-title font-weight-medium">
-                Les projets d'Aurélien
+                Consulter les projets ADTDesign
               </h2>
               <p>
                 Découvrez toutes ses réalisations :
@@ -98,7 +98,7 @@
               <div class="portfolio-img">
                 <a href="https://www.huon-osteopathe.fr/" target="_blank">
                   <img
-                  src="@/assets/images/portfolio/ADTDesign_Clément_huon.jpg"
+                  src="@/assets/images/portfolio/ADTDesign_Clement_huon.jpg"
                   class="img-fluid"
                   alt="ADTDesign_Clément_huon"
                 />
@@ -177,19 +177,74 @@
                   src="@/assets/images/portfolio/ADTDesign_LightOwl.png"
                   class="img-fluid"
                   alt="ADTDesign LightOwl Logo"
-                />
-              </div>
-              <v-card-text>
-                <h5 class="font-weight-medium font-18">LightOwl Logo</h5>
-                <p class="font-14 mb-0">Conception de Logo</p>
-              </v-card-text>
-            </v-card>
-          </v-col>          
-        </v-row>
-
-        <!-- -----------------------------------------------
+                  />
+                </div>
+                <v-card-text>
+                  <h5 class="font-weight-medium font-18">LightOwl Logo</h5>
+                  <p class="font-14 mb-0">Conception de Logo</p>
+                </v-card-text>
+              </v-card>
+            </v-col>
+          </v-row>
+          <br>
+          <!-- -----------------------------------------------
             End Portfolio
-        ----------------------------------------------- -->
+            ----------------------------------------------- -->
+          <div style="padding: 30px; border-radius: 30px; background: linear-gradient(90deg, #137C8B 0%, #709CA7 100%);">
+            <br>
+              <h2 style="text-align: center; color: white;">Notre Équipe : </h2>
+            <br>
+            <br>
+            <br>
+          <v-row>
+            <v-col
+            cols="6"
+            mx-auto>
+            <div style="text-align:center">
+              <v-avatar
+              size="62"
+              >
+                  <img
+                      src="@/assets/images/team/ADTDesign_LEFEBVRE_Maxime.PNG"
+                      alt="Maxime_Lefebvre"
+                      mx-auto
+                  >
+              </v-avatar>
+            </div>
+              <br>
+              <h3 style="text-align:center; color: white;font-weight: 900;">Maxime LEFEBVRE</h3>
+              <div style="background:white; height:1px; width:70px; margin:auto;"></div>
+              <br>
+              <h4 style="text-align:center; color: white; font-weight: 600;">Concepteur - Développeur d'Application Web & Mobile</h4>
+              <h5 style="text-align:center; color: white; font-weight: 100;">Création API REST Symfony, Fast API, Phalcon, Wordpress, OCR, Création de graphique technique & Pannel Administration</h5>
+            </v-col>
+  
+            <v-col
+            cols="6"
+            mx-auto>
+            <div style="text-align:center">
+              <v-avatar
+              size="62"
+              >
+                  <img
+                      src="@/assets/images/team/ADTDesign_DESTAILLEUR_Aurélien.png"
+                      alt="John"
+                      mx-auto
+                  >
+              </v-avatar>
+            </div>
+              <br>
+              <h3 style="text-align:center; color: white;font-weight: 900;">Aurélien DESTAILLEUR</h3>
+              <div style="background:white; height:1px; width:70px; margin:auto;"></div>
+              <br>
+              <h4 style="text-align:center; color: white; font-weight: 600;">WebDesigner - Développeur d'Application Web & Mobile</h4>
+              <h5 style="text-align:center; color: white; font-weight: 100;">Création API REST Fast API, VueJS / Vuetify, Wordpress, Création graphique & communication visuelle, Montage Vidéo</h5>
+            </v-col>
+  
+          </v-row>
+        </div>
+
+
       </v-container>
     </div>
   </div>

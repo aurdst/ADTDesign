@@ -26,7 +26,7 @@
                   color="error"
                   elevation="0"
                 >
-                  <span>Voir ses projets</span>
+                  <span>Voir nos projets</span>
                   <i class="mdi mdi-arrow-right"></i>
                 </v-btn>
               </div>

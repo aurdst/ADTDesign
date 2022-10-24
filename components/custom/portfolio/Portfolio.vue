@@ -227,7 +227,7 @@
               size="62"
               >
                   <img
-                      src="@/assets/images/team/ADTDesign_DESTAILLEUR_Aurélien.png"
+                      src="@/assets/images/team/ADTDesign_DESTAILLEUR_Aurelien.png"
                       alt="John"
                       mx-auto
                   >

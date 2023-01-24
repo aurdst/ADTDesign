@@ -24,7 +24,7 @@
             </li>
             <li class="nav-item" text>
               <n-link class="nav-link" nuxt to="#projets">
-                Projets
+                Nos Projets
               </n-link>
             </li>
             <li class="nav-item">
@@ -35,7 +35,7 @@
                 href="#contact"
                 elevation="0"
               >
-                Contactez-moi
+                Contactez-nous
               </v-btn>
             </li>
           </ul>

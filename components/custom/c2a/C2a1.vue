@@ -1,13 +1,13 @@
 <template>
   <div>
-    <div class="c2a1-spacer primary">
+    <div class="c2a1-spacer" style="background-color:#C7DC00">
       <v-container>
         <!-- -----------------------------------------------
             Start Call-2-Action
         ----------------------------------------------- -->
         <div class="d-block d-md-flex align-center">
-          <h2 class="mx-auto c2a-title white--text font-weight-medium">
-            Vous souhaitez suivre toutes l'actualité ADTDesign ? Suivez nous sur instagram
+          <h2 class="mx-auto c2a-title black--text font-weight-medium">
+            Vous souhaitez suivre toutes l'actualité ADTDesign ? Suivez nous sur <a href="https://www.instagram.com/adtdesign/?hl=fr" target="_blank" style="text-decoration:none;" class="instagram">Instagram</a>
           </h2>
           <!-- <div class="ml-auto mt-5 mt-md-0">
             <v-btn

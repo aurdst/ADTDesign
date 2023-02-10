@@ -15,23 +15,6 @@
                 De l'idée à la conception, confiez nous votre projet digital !
               </p>
               <div class="mt-16 pt-2">
-                <!-- <form>
-                  <div class="stylish-input-group">
-                    <v-text-field
-                      placeholder="Entrer votre adresse e-mail"
-                      solo
-                    ></v-text-field>
-                    <v-btn
-                      rounded
-                      color="primary"
-                      elevation="0"
-                      class="text-uppercase font-weight-medium"
-                      dark
-                    >
-                      s'inscrire !
-                    </v-btn>
-                  </div>
-                </form> -->
               </div>
             </div>
           </v-col>

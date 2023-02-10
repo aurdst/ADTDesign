@@ -9,7 +9,7 @@
           <v-col id="projets" cols="12" sm="10" md="9" lg="7">
             <div class="text-center">
               <h2 class="section-title font-weight-medium">
-                Consulter les projets ADTDesign
+                Consulter les projets ADSTDesign
               </h2>
               <p>
                 Découvrez toutes ses réalisations :
@@ -122,7 +122,7 @@ export default {
   data() {
     return {
       showLogo: false,
-      showMaquette: false,
+      showMaquette: true,
       showWeb: false,
     };
   },

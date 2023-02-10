@@ -16,12 +16,12 @@
                   banner1-title
                   font-weight-bold
                   text-uppercase
-                  white--text
+                  darkgrey--text
                 "
               >
                 4,95 Millards d'utilisateurs sur internet en 2022
               </h2>
-              <p class="white--text op-8 font-weight-regular">
+              <p class="black--text op-8 font-weight-regular">
                 D'après le rapport annuel réalisé par le Blog du Moderateur et Hootsuite, 192 millions de nouveaux internautes 
                 dans le monde ont utilisé internet entre janvier 2020 et janvier 2021. Nous comptons alors 4,95 milliards
                  d'utilisateurs d'internet dans le monde entier en 2022. En France, le nombre d’utilisateurs d’internet monte à 60,92 millions en 2022, 
@@ -34,18 +34,15 @@
                   rounded
                   class="btn-custom-md"
                   depressed
-                  color="white"
-                  elevation="0"
                 >
                   <a href="https://www.sitew.com/Informations-diverses-sur-la-creation-de-site/statistiques-web" target="_blank" style="text-decoration:none; color:black;">En savoir plus</a>
-                  
                 </v-btn>
               </div>
             </div>
           </v-col>
           <v-col cols="12" md="5" lg="5">
             <v-img
-              :src="require('@/assets/images/banner/banner1.jpg')"
+              :src="require('@/assets/images/banner/banner1.png')"
               alt="banner"
             />
           </v-col>

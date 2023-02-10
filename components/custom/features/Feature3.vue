@@ -17,8 +17,8 @@
             <v-card class="card-shadow">
               <v-card-text style="margin-top: -25px">
                 <div class="pa-10 text-center">
-                  <v-chip small color="info" text-color="white">
-                    Pourquoi Aurélien ?
+                  <v-chip small color="#212E53" text-color="white">
+                    Pourquoi ADTDesign  ?
                   </v-chip>
                   <h3 class="feature3-title font-weight-medium">
                     Faite confiance à l'expertise d'Aurélien & de Maxime

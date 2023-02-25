@@ -25,21 +25,21 @@
             Button Portfolio
         ----------------------------------------------- -->
         <v-row align="center" justify="center">
-          <v-col cols="2">
+          <v-col cols="4">
             <v-btn color="#212E53" small outlined rounded v-on:click="toggleShowMaquette">
               Maquettes
             </v-btn>
           </v-col>
 
-          <v-col cols="2">
+          <v-col cols="4">
             <v-btn color="#212E53" outlined small rounded v-on:click="toggleShowLogo">
               Logos / Print
             </v-btn>
           </v-col>
 
-          <v-col cols="2">
+          <v-col cols="4">
             <v-btn color="#212E53" outlined small rounded v-on:click="toggleShowWeb">
-              Sites Web / App Mobile
+              Web / App
             </v-btn>
           </v-col>
         </v-row>
@@ -112,6 +112,7 @@
     </div>
   </div>
 </template>
+
 <script>
 import PrintProject from "../Projects/PrintProject.vue"
 import WebProject from "../Projects/WebProject.vue"
@@ -152,3 +153,11 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+button.v-btn.v-btn--outlined.v-btn--rounded.theme--light.v-size--small{
+  display: block;
+  margin: auto;
+  width: 30%;
+}
+</style>
